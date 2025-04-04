@@ -1,6 +1,6 @@
 import React from 'react'
 import { LinearProgress, Box, Button } from "@mui/material";
-import pic from "../../assets/done.jpg"
+import pic from "../../assets/Done.jpg"
 import "./done.css"
 import { useNavigate } from 'react-router-dom';
 
