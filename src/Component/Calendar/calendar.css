@@ -1,0 +1,9 @@
+.calendar-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.MuiTextField-root {
+    width: 200px;
+}
